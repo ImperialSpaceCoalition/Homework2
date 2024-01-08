@@ -1,7 +1,7 @@
 # Homework2
 
 ## Description!
-[Portfolio Project](https://github.com/ImperialSpaceCoalition/Homework2/assets/149442184/a8f7ba26-fd60-42ff-a4b0-6495b328c35b)
+[Screenshot](https://github.com/ImperialSpaceCoalition/Homework2/assets/149442184/a8f7ba26-fd60-42ff-a4b0-6495b328c35b)
 
 
 
@@ -10,7 +10,7 @@ This portfolio project is designed to showcase my work both in class and beyond.
 ## Installation
 
 To view the deployed portfolio, simply visit the following link:
-[https://imperialspacecoalition.github.io/Homework2](#) 
+[https://imperialspacecoalition.github.io/Homework2/](#) 
 
 ## Usage
 
