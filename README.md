@@ -10,7 +10,7 @@ This portfolio project is designed to showcase my work both in class and beyond.
 ## Installation
 
 To view the deployed portfolio, simply visit the following link:
-[https://imperialspacecoalition.github.io/Homework2/](#) 
+[imperialspacecoalition.github.io/Homework2/](#) 
 
 ## Usage
 
