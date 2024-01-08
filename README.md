@@ -1,13 +1,16 @@
 # Homework2
 
-## Description
+## Description!
+[Portfolio Project](https://github.com/ImperialSpaceCoalition/Homework2/assets/149442184/a8f7ba26-fd60-42ff-a4b0-6495b328c35b)
+
+
 
 This portfolio project is designed to showcase my work both in class and beyond. It provides a visually appealing platform to display projects, share information, and connect with potential clients and peers.
 
 ## Installation
 
 To view the deployed portfolio, simply visit the following link:
-[Project 2 Portfolio](#) 
+[https://imperialspacecoalition.github.io/Homework2](#) 
 
 ## Usage
 
