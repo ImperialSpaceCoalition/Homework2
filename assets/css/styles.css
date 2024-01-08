@@ -1,4 +1,4 @@
-/* Reset styles */
+/* Reset */
 body, h1, h2, h3, p, ul, li {
     margin: 0;
     padding: 0;
@@ -10,7 +10,7 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    background-image: url('../images/bimage.jpeg'); /* Adjusted path */
+    background-image: url('../images/bimage.jpeg');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -67,7 +67,7 @@ article {
 
 .section-image, .project-image {
     width: 100%;
-    height: auto;
+    max-height: 300px;
     border-radius: 0 0 10px 10px;
 }
 
@@ -82,14 +82,19 @@ footer {
 }
 
 .profile-image {
-    width: 80px;
-    height: 80px;
+    width: 160px;
+    height: 160px;
     border-radius: 50%;
     border: 2px solid #fff;
     margin: 20px auto;
 }
 
-/* Responsive adjustments */
+.project-info a {
+    font-size: 1.2em;
+    color: #00f;
+}
+
+/* Responsives */
 @media (max-width: 768px) {
     header h1 {
         font-size: 2em;
@@ -103,5 +108,7 @@ footer {
 
     section article img, section img.section-image {
         width: 100%;
+        max-height: none;
     }
 }
+
